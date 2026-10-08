@@ -661,5 +661,3 @@ This project was developed for the NASA Space Apps Challenge 2025. It demonstrat
 **Made with ❤️ for better weather prediction**
 
 🌍 Predicting tomorrow's weather, today 🌤️
-#   A t m o p r e d i c t - m a i n  
- 
